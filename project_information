@@ -1,0 +1,6 @@
+Benefits of CI/CD.
+ Moving Fast: Release changes and updates frequently.
+ Reliability: Consistent process for each and every change.
+ Rapid Troubleshooting: A test Failure will block the pipeline and merits immediate investigation. 
+ Avoid Stress: Takes the stress away from scrambling to deploy emergency fixes or updates.
+ 
